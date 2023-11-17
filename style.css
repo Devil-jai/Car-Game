@@ -41,8 +41,8 @@
 .car-wheel{
     background-image: url(raks.png);
     height:70px;width: 70px;
-    bottom: 36px;
-    right:304px;
+    bottom: 40px;
+    right:338px;
 background-position: center ;
 
     background-repeat: none;
@@ -53,8 +53,8 @@ background-position: center ;
 .car-wheel2{
     background-image: url(raks.png);
     height:66px;width: 66px;
-    bottom: 32px;
-    left: 294px;
+    bottom: 35px;
+    left: 330px;
 background-position: center ;
 
     background-repeat: none;
